@@ -8,3 +8,6 @@ This project demonstrates the basic workflow of Git,branches and GitHub.
 - Remote repositories
 - GitHub
 
+## Documentation
+This section was created on the feature-documentation branch.
+
