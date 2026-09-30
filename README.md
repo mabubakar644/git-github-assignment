@@ -2,3 +2,9 @@
 This repository demonstrates my understanding of Git and GitHub.
 ## About This Project 
 This project demonstrates the basic workflow of Git,branches and GitHub.
+## Topics
+- Git repositories
+- Branches
+- Remote repositories
+- GitHub
+
